@@ -1,6 +1,12 @@
 #Software
 apache-jmeter-5.5/
 
+node_modules/
+videos/
+screenshoot/
+report/
+
+
 # Logs
 logs
 *.log
