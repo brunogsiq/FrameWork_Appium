@@ -16,3 +16,6 @@ Aprimore suas habilidades na localização e identificação eficientes de eleme
 Enfrente desafios comuns na automação de testes com o Appium e obtenha dicas avançadas para superar obstáculos. Desde a resolução de problemas de configuração até a otimização de scripts, este repositório oferece insights valiosos para aprimorar suas habilidades com o Appium.
 
 Explore este repositório para aprofundar seu conhecimento no Framework Appium e aprimorar sua abordagem à automação de testes móveis! 📱🚀
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
