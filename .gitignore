@@ -137,3 +137,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Gradle local state
+/08_Mobile/08.3_Projects/WCAquino/.gradle/
